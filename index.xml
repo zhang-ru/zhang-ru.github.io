@@ -3,7 +3,8 @@
         <title>Zhang Ru&#39;s Blog</title>
         <link>http://zhang-ru.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>ru.zhang@outlook.com (Zhang Ru)</managingEditor>
+            <webMaster>ru.zhang@outlook.com (Zhang Ru)</webMaster><lastBuildDate>Sun, 24 Jan 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://zhang-ru.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>欢迎来到我的博客</title>
