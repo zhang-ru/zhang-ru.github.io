@@ -18,8 +18,8 @@ theme = "LoveIt"
   description = "这是我的全新 Hugo 网站"
   # 网站关键词
   keywords = ["Theme", "Hugo"]
-  # 网站默认主题样式 ("light", "dark", "auto")
-  defaultTheme = "auto"
+  # 网站默认主题样式 ("dark", "light", "auto")
+  defaultTheme = "dark"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = ""
   # LoveIt 新增 | 0.1.1 哪种哈希函数用来 SRI, 为空时表示不使用 SRI
