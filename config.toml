@@ -11,6 +11,10 @@ title = "Zhang Ru's Blog"
 # 更改使用 Hugo 构建网站时使用的默认主题1
 theme = "LoveIt"
 
+# whether to use emoji code
+enableEmoji = true
+
+
 [params]
   # LoveIt 更改 | 0.2.0 LoveIt 主题版本
   version = "0.2.X"
@@ -78,7 +82,7 @@ theme = "LoveIt"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = ""
+      name = "Zhang Ru' Blog"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -86,7 +90,7 @@ theme = "LoveIt"
       # LoveIt 新增 | 0.2.5 是否为标题显示打字机动画
       typeit = false
 
-  # Menu Info
+# Menu Info
 [menu]
   [[menu.main]]
     identifier = "posts"
