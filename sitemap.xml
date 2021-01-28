@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://zhang-ru.github.io/posts/</loc><lastmod>2021-01-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/</loc><lastmod>2021-01-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/about/</loc><lastmod>2021-01-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://zhang-ru.github.io/tags/picgo/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://zhang-ru.github.io/posts/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://zhang-ru.github.io/tags/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://zhang-ru.github.io/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://zhang-ru.github.io/2021/picgo%E9%83%A8%E7%BD%B2/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://zhang-ru.github.io/2021/about/</loc><lastmod>2021-01-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://zhang-ru.github.io/2021/hello-world/</loc><lastmod>2021-01-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/picgo%E9%83%A8%E7%BD%B2/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/hello-world/</loc><lastmod>2021-01-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://zhang-ru.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
