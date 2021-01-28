@@ -86,6 +86,32 @@ theme = "LoveIt"
       # LoveIt 新增 | 0.2.5 是否为标题显示打字机动画
       typeit = false
 
+  # Menu Info
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "tags"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "categories"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about"
+    weight = 4
+
   # 页面底部信息配置
   [params.footer]
     enable = true
@@ -136,7 +162,7 @@ theme = "LoveIt"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = "Zhang Ru's Blog"
       # 主页显示的网站副标题
-      subtitle = "欢迎来到我的博客"
+      subtitle = "You are what you choose."
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -154,9 +180,9 @@ theme = "LoveIt"
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "https://github.com/zhang-ru"
+    GitHub = "zhang-ru"
     Linkedin = ""
-    Twitter = "https://twitter.com/zhangrunbsm"
+    Twitter = "zhangrunbsm"
     Instagram = "xxxx"
     Facebook = "xxxx"
     Telegram = "xxxx"
