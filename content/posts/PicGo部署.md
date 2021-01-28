@@ -7,7 +7,12 @@ tags: ["PicGo"]
 
 昨日刚刚把博客搭好，文字可以随便的写了，但是还有一个问题就是Markdown中要包含图片就需要有图床了。我在网上找教程的过程中，发现了图床管理工具PicGo。
 
-PicGo除了有需要安装的桌面版，在Vs Code中也有扩展工具，只需要在扩展市场中搜索并安装就好了（***推荐***）。使用起来也比较简单，在设置中找到，按照指示填写即可：![20210125100505](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/20210125100505.png)![20210125100639](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/20210125100639.png)
+PicGo除了有需要安装的桌面版，在Vs Code中也有扩展工具，只需要在扩展市场中搜索并安装就好了（***推荐***）。使用起来也比较简单，在设置中找到，按照指示填写即可：
+
+![20210125100505](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/20210125100505.png)
+
+![20210125100639](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/20210125100639.png)
+
 
 ### 关于图床的选择
 我先后尝试了Github、七牛、Gitee、SMMS这几个，设置步骤也都大差不差，这里主要说说缺点吧：
