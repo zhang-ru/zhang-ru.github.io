@@ -113,7 +113,7 @@ enableEmoji = true
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "2021/about"
+    url = "2020/about"
     weight = 4
 
   # 页面底部信息配置
