@@ -113,7 +113,7 @@ enableEmoji = true
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = ":year/about"
+    url = "2021/about"
     weight = 4
 
   # 页面底部信息配置
@@ -539,7 +539,7 @@ enableEmoji = true
 # Permalinks 配置
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = ":year/:filename"
 
 # 隐私信息配置
 [privacy]
