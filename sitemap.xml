@@ -2,11 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://zhang-ru.github.io/tags/picgo/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://zhang-ru.github.io/posts/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://zhang-ru.github.io/tags/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://zhang-ru.github.io/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://zhang-ru.github.io/2021/picgo%E9%83%A8%E7%BD%B2/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://zhang-ru.github.io/2021/hello-world/</loc><lastmod>2021-01-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>http://zhang-ru.github.io/posts/</loc><lastmod>2021-07-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/tags/</loc><lastmod>2021-07-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/</loc><lastmod>2021-07-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/2021/%E6%8E%8C%E6%8E%A7%E4%B9%A0%E6%83%AF%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-07-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-07-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://zhang-ru.github.io/tags/picgo/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://zhang-ru.github.io/2021/picgo%E9%83%A8%E7%BD%B2/</loc><lastmod>2021-01-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://zhang-ru.github.io/2021/hello-world/</loc><lastmod>2021-01-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://zhang-ru.github.io/2020/about/</loc><lastmod>2020-12-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://zhang-ru.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
