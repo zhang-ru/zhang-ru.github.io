@@ -38,9 +38,9 @@ categories: ["PMP之路"]
 
 **汪博士解读PMP考试中给出了更详细的内容**
 
-![图2.1 组织内部环境因素](https://i.loli.net/2021/08/13/DWQS9Th3iIfRG7q.jpg)  
+![图2.1 组织内部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.1 组织内部环境因素.jpg)
 
-![图2.2 组织外部环境因素](https://i.loli.net/2021/08/13/RaxCKAXWnHisqFp.jpg)
+![图2.2 组织外部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.2 组织外部环境因素.jpg)
 
 ### 2.2 组织过程资产
 
@@ -49,7 +49,7 @@ categories: ["PMP之路"]
 - 过程、政策和程序
 - 组织知识库  
 
-![图2.3 组织过程资产](https://i.loli.net/2021/08/13/qTjSrWcBxwQ2lvC.jpg)
+![图2.3 组织过程资产](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.3 组织过程资产.jpg)
 
 组织过程资产是许多项目管理过程的输入。
 
@@ -84,6 +84,24 @@ categories: ["PMP之路"]
 
 《PMBOK®指南》列出了组织中的16个基本管理要素（或称“关键管理职能”）。它们是为做好管理工作而必须关注的基本内容。这16条其实是改编自古典管理理论的代表人物一亨利·法约尔（Henri Fayol）1916年提出的14条一般管理原则。这14条一般管理原则与《PMBOK®指南》的16个管理要素的对应关系，如下表所示。
 
-![表2-1 组织管理要素](https://i.loli.net/2021/08/13/gCpna3BGQuNHJMq.jpg)
+![表2-1 组织管理要素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-1 组织管理要素.jpg)
 
 #### 2.3.2 组织结构类型
+
+下表列出了常见的组织结构类型，及各种类型对项目的影响：  
+
+![表2-2 组织结构类型和特征](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-2 组织结构类型和特征.jpg)
+
+![表2-3 不同组织形式的主要区别](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-3 不同组织形式的主要区别.jpg)
+
+> 在矩阵型组织中，项目经理往往没有管理项目的足够的正式权力（职权）。
+
+------
+
+项目管理办公室 (PMO) 是对与项目相关的治理过程进行标准化，并促进资源、方法论、工具和技术共享的一个组织结构。为了保证项目符合组织的业务目标，PMO 可能有权在每个项目的生命周期中充当重要相关方和关键决策者。PMO 所支持和管理的项目不一定彼此关联。PMO 的具体形式、职能和结构取决于所在组织的需要。
+
+PMO对项目施加的控制程度来看，有以下三种：
+
+- 支持型。PMO仅为项目提供行政支持服务，如提供工作模板、工作流程、过去项目的经验教训、项目管理培训和咨询等。它对项目没有控制权力，如PMO无权要求项目必须采用某种模板或流程。
+- 控制型。PMO在提供支持的基础上，有权对项目施加一定程度的控制，有权要求项目遵守PMO的相关规定，如项目必须采用PMO提供的工作模板和工作流程。
+- 指令型。PMO直接管理一些很重要的项目，对项目目标的实现负责。这些项目完全在PMO的控制之下。组织应该规定达到多大规模和何种复杂程度的项目才归PMO直接管理。
