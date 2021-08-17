@@ -33,9 +33,9 @@
 
 **汪博士解读PMP考试中给出了更详细的内容**
 
-![图2.1 组织内部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.1 组织内部环境因素.jpg)
+![图2-1组织内部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2-1组织内部环境因素.jpg)
 
-![图2.2 组织外部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.2 组织外部环境因素.jpg)
+![图2-2组织外部环境因素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2-2组织外部环境因素.jpg)
 
 ### 2.2 组织过程资产
 
@@ -44,7 +44,7 @@
 - 过程、政策和程序
 - 组织知识库  
 
-![图2.3 组织过程资产](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2.3 组织过程资产.jpg)
+![图2-3组织过程资产](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/图2-3组织过程资产.jpg)
 
 组织过程资产是许多项目管理过程的输入。
 
@@ -79,15 +79,15 @@
 
 《PMBOK®指南》列出了组织中的16个基本管理要素（或称“关键管理职能”）。它们是为做好管理工作而必须关注的基本内容。这16条其实是改编自古典管理理论的代表人物一亨利·法约尔（Henri Fayol）1916年提出的14条一般管理原则。这14条一般管理原则与《PMBOK®指南》的16个管理要素的对应关系，如下表所示。
 
-![表2-1 组织管理要素](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-1 组织管理要素.jpg)
+
 
 #### 2.3.2 组织结构类型
 
 下表列出了常见的组织结构类型，及各种类型对项目的影响：  
 
-![表2-2 组织结构类型和特征](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-2 组织结构类型和特征.jpg)
+![表2-2组织结构类型和特征](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-2组织结构类型和特征.jpg)
 
-![表2-3 不同组织形式的主要区别](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-3 不同组织形式的主要区别.jpg)
+![表2-3不同组织形式的主要区别](https://cdn.jsdelivr.net/gh/zhang-ru/imagebed@main/img/表2-3不同组织形式的主要区别.jpg)
 
 > 在矩阵型组织中，项目经理往往没有管理项目的足够的正式权力（职权）。
 
